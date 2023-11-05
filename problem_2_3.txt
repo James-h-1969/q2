@@ -1,0 +1,1 @@
+(!p!qrs) | (!pq!rs) | (!pqr!s) | (pq!r!s) | (p!q!rs) | (p!qr!s)

@@ -1,0 +1,1 @@
+(!pq!u!v!w) | (p!q!u!v!w) | (pq!u!v!w) | (pq!u!vw) | (pq!uv!w) | (pqu!v!w)
